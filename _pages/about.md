@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.Eng. from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University in June 2024. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
@@ -19,18 +19,18 @@ My research interests include:
 
 ## Education
 
-- **Ph.D. in Computer Science**, [Hong Kong University of Science and Technology](https://www.hkust.edu.hk/) (2024 – Present)
+- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 – Present)
   - Supervised by Prof. Junxian He
-- **B.Eng.**, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (2020 – 2024)
+- **B.Eng.**, Shanghai Jiao Tong University (2020 – 2024)
   - Graduated June 2024
   - Zhiyuan Honor Scholarship
 
 ## Research Experience
 
-- **Research Intern**, [MINIMAX](https://www.minimaxi.com/) (February 2025 – Present)
-- **Research Intern**, [Tencent WXG](https://www.tencent.com/) (June 2024 – September 2024)
+- **Research Intern**, MINIMAX (February 2025 – Present)
+- **Research Intern**, Tencent WXG (June 2024 – September 2024)
   - Advised by Zifei Shan
-- **Research Intern**, [Shanghai AI Lab](https://www.shanghaiailab.com/) (June 2023 – December 2023)
+- **Research Intern**, Shanghai AI Lab (June 2023 – December 2023)
   - Advised by Prof. Yu Cheng
 
 ## Publications
